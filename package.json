@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "d3": "^6.7.0",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "firebase-admin": "^10.0.2",
     "node-fetch": "^2.6.1"
   }
